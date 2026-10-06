@@ -1,6 +1,6 @@
 # Groww Mutual Fund FAQ Chatbot (RAG Prototype)
 
-See `docs/PRD.md` and `docs/architecture.md`.
+See `docs/PRD_RAG.md` and `docs/architecture.md`.
 
 ## Folder structure
 - `docs/` – PRD, architecture, problem statement

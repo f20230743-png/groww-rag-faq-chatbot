@@ -1,0 +1,22 @@
+# Secrets / API keys
+.env
+*.env
+.env.*
+api_keys*
+secrets*
+credentials*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector DB / large artifacts
+data/vectordb/*
+!data/vectordb/.gitkeep
+data/embeddings/*
+!data/embeddings/.gitkeep
+
+# OS
+.DS_Store
